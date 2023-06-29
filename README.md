@@ -4,6 +4,8 @@ todo project
 
 to-do-list app made by Flutter, Spring, MySQL 
 
+Using simple Restful api
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
